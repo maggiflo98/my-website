@@ -1,0 +1,129 @@
+
+ body{
+   	background-image:url(apple-cellphone-computer-keyboard-1779487.jpg);
+	 background-repeat: no-repeat;
+     background-size:cover;
+     background-position: centre;
+     background-position: cover;
+     height:50%;
+     color: white; 
+
+     
+    }
+h1{
+	align: center;
+	color: white
+
+}
+.row
+{ 
+  margin: 0;
+  padding: 0;
+  width: 100vw;
+  height: 100vh;
+	 
+}
+
+ul
+{
+	
+	list-style: none;
+	margin-top: 0px;
+  padding: 0px;																																																																																																																								
+
+}
+ul li
+{
+ float: left;
+ width: 250px;
+ height: 70px;
+ background-color:black;
+ opacity: .8;
+ line-height: 40px;
+ text-align: center;
+ font-size: 20px;
+ margin-right:2px;  
+}
+
+ul li a
+{
+ text-decoration: none;
+ color: white;
+ display: block;
+}
+
+ul li a:hover{
+   background-color: green;
+}
+ul li ul li{
+
+    display: none;
+}
+ul li:hover ul li{
+   display: block;
+}
+
+	border: 1px solid white;
+ }
+ 
+ .hero
+ {
+
+ 	position:absolute;
+ 	width:1200px;
+ 	margin-left: 0;
+ 	margin-top: 0;
+}
+ h2
+ {
+   color:white;
+   text-transform: uppercase;
+   font-size:70px;
+   text-align: center;
+   margin-top: 275px;    
+ 	}
+ 	.button
+ 	{
+ 		margin-top:30px;
+ 		margin-left: 440px;
+
+    }
+    .btn
+    {
+    	 border: 1px solid white;
+    	 padding: 10px 30px;
+    	 color: white;
+    	 text-decoration: none;
+    	 margin-right: 5px;
+    	 font-size: 13px;
+    	 text-transform: uppercase;
+
+    }
+    .btn-one
+    {
+    	background-color: darkorange;
+    	font-family: "Roboto", sans-serif;
+    }
+    .btn-two
+    {
+    	font-family:"Roboto;",sans-serif;
+    }
+    .btn-two:hover
+    {
+    	background-color: darkorange;
+    	transition: all 0.5s ease-in;
+    }
+    
+
+   
+
+
+
+
+
+
+ 	
+
+
+
+ 
